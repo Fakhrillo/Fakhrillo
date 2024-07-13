@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Fakhrillo
 - 👀 I’m interested in Programming and Gaming
 - 🌱 I’m currently learning Django, Machine learning and AI
 - 💞️ I’m looking to collaborate on real projects
