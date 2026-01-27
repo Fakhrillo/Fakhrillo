@@ -5,13 +5,25 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: fakhrillo
+
+      - name: Commit and push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update 3D contribution graph"
+          add: "profile-3d-contrib"
