@@ -82,6 +82,14 @@
 
 ---
 
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" />
+</p>
+
+---
+
 ## 🐍 Contribution Activity
 
 <p align="center">
@@ -99,3 +107,4 @@
 <p align="center">
   <strong>🚀 Building scalable backends & intelligent systems</strong>
 </p>
+
