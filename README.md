@@ -34,7 +34,7 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=fakhrillo&theme=onedark&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=fakhrillo&theme=onedark&no-frame=true&row=1&column=6&cache=1"
     alt="GitHub achievements"
   />
 </p>
@@ -108,5 +108,6 @@
 <p align="center">
   <strong>🚀 Building scalable backends & intelligent systems</strong>
 </p>
+
 
 
