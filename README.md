@@ -30,10 +30,21 @@
 
 ---
 
-## 🏆 GitHub Activity & Metrics
+## 📊 GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=fakhrillo&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhrillo&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="github-metrics.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakhrillo&theme=tokyonight" />
 </p>
 
 
@@ -65,22 +76,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fakhrillo&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhrillo&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakhrillo&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 3D Contribution Graph
 
 <p align="center">
@@ -106,6 +101,7 @@
 <p align="center">
   <strong>🚀 Building scalable backends & intelligent systems</strong>
 </p>
+
 
 
 
