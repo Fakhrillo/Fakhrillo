@@ -30,14 +30,12 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Activity & Metrics
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=fakhrillo&theme=onedark&no-frame=true&row=1&column=6&cache=1"
-    alt="GitHub achievements"
-  />
+  <img src="github-metrics.svg" />
 </p>
+
 
 ---
 
@@ -108,6 +106,7 @@
 <p align="center">
   <strong>🚀 Building scalable backends & intelligent systems</strong>
 </p>
+
 
 
 
