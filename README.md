@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/Fakhrillo?label=GitHub&style=for-the-badge&logo=github" />
   </a>
   <a href="https://twitter.com/fakhrillo">
-    <img src="https://img.shields.io/twitter/follow/fakhrillo?label=X&style=for-the-badge&logo=twitter" />
+    <img src="https://img.shields.io/twitter/follow/fakhrillo?label=X&style=for-the-badge&logo=x" />
   </a>
   <a href="mailto:flutfillokhonov@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
@@ -33,9 +33,10 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fakhrillo&theme=onedark&row=1&column=6" />
-  </a>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=fakhrillo&theme=onedark&no-frame=true&row=1&column=6"
+    alt="GitHub achievements"
+  />
 </p>
 
 ---
@@ -107,4 +108,5 @@
 <p align="center">
   <strong>🚀 Building scalable backends & intelligent systems</strong>
 </p>
+
 
