@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! I'm Fakhrillokhon Lutfillokhonov</h1></div>
-<h3 align="center">As you can see this is my Git repo :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakhrillo&label=Profile%20views&color=0e75b6&style=flat" alt="fakhrillo" /> </p>
 
@@ -29,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fakhrillo&show_icons=true&locale=en" alt="fakhrillo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fakhrillo&" alt="fakhrillo" /></p>
+
