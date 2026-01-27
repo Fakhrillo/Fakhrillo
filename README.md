@@ -79,8 +79,9 @@
 ## 📈 3D Contribution Graph
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" />
+  <img src="profile-3d-contrib/profile-night-green.svg" />
 </p>
+
 
 ---
 
@@ -101,6 +102,7 @@
 <p align="center">
   <strong>🚀 Building scalable backends & intelligent systems</strong>
 </p>
+
 
 
 
