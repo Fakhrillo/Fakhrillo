@@ -1,31 +1,101 @@
-<h1 align="center">Hey there! I'm Fakhrillokhon Lutfillokhonov</h1></div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fakhrillo&label=Profile%20views&color=0e75b6&style=flat" alt="fakhrillo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fakhrillo" alt="fakhrillo" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Python Django, Telebot, PostgreSQL, AI, ML, FastAPI, NLP, GO**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Fakhrillo?tab=repositories](https://github.com/Fakhrillo?tab=repositories)
-
-- 💬 Ask me about **Python Django, Telebot, AI, DepthAI, FastAPI**
-
-- 📫 How to reach me **flutfillokhonov@gmail.com**
-
-- ⚡ Fun fact **It is boring if you don't think outside the box**
+<h1 align="center">👋 Hey there, I'm Fakhrillokhon Lutfillokhonov</h1>
+<h3 align="center">AI & Backend Engineer | Django • FastAPI • Telegram Bots • PostgreSQL</h3>
 
 <p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
+  <img src="https://komarev.com/ghpvc/?username=fakhrillo&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<!-- Social -->
+<p align="center">
+  <a href="https://github.com/Fakhrillo">
+    <img src="https://img.shields.io/github/followers/Fakhrillo?label=GitHub&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://twitter.com/fakhrillo">
+    <img src="https://img.shields.io/twitter/follow/fakhrillo?label=X&style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="mailto:flutfillokhonov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhrillo&show_icons=true&locale=en&layout=compact" alt="fakhrillo" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fakhrillo&show_icons=true&locale=en" alt="fakhrillo" /></p>
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fakhrillo&" alt="fakhrillo" /></p>
+- 🔭 Focused on **AI-powered backend systems**
+- 🌱 Currently working with **Django, FastAPI, NLP, ML, PostgreSQL, Go**
+- 🤖 Building **Telegram bots**, **interview systems**, and **automation pipelines**
+- 💬 Ask me about **Backend Architecture, AI Integration, APIs**
+- ⚡ *It’s boring if you don’t think outside the box*
 
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fakhrillo&theme=onedark&row=1&column=6" />
+  </a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
+</p>
+
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+</p>
+
+### 🗄 Databases & Data
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fakhrillo&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhrillo&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakhrillo&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="github-snake.svg" width="700" />
+</p>
+
+---
+
+## 📌 Featured Work
+👉 Explore my projects:  
+🔗 **https://github.com/Fakhrillo?tab=repositories**
+
+---
+
+<p align="center">
+  <strong>🚀 Building scalable backends & intelligent systems</strong>
+</p>
