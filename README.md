@@ -32,18 +32,20 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=fakhrillo&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrillo&layout=compact&theme=tokyonight" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=fakhrillo&show_icons=true&theme=tokyonight" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrillo&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=fakhrillo&theme=tokyonight" />
-</div>
+</p>
 
 
 ---
@@ -100,6 +102,7 @@
 <p align="center">
   <strong>🚀 Building scalable backends & intelligent systems</strong>
 </p>
+
 
 
 
