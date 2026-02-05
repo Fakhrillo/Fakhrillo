@@ -34,11 +34,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=fakhrillo&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=fakhrillo&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fakhrillo&layout=compact&theme=tokyonight" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fakhrillo&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=fakhrillo&theme=tokyonight" />
 </p>
 
 
@@ -96,6 +96,7 @@
 <p align="center">
   <strong>🚀 Building scalable backends & intelligent systems</strong>
 </p>
+
 
 
 
